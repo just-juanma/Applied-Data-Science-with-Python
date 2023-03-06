@@ -1,5 +1,5 @@
 # 🐍📊 Applied Data Science with Python
-By Juan Manuel González Kapnik. Exercises taken from Coursera, U. Michigan.
+By Juan Manuel González Kapnik. From Coursera & U. Michigan.
 ## 📋 Table of contents
 1. [Proyect description](#pdescription)
 2. [Software Description](#sdescription)
